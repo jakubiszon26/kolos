@@ -1,0 +1,16 @@
+C:\Users\JakubKołakowski\source\repos\zad2\bin\Debug\net9.0-windows\zad2.exe
+C:\Users\JakubKołakowski\source\repos\zad2\bin\Debug\net9.0-windows\zad2.deps.json
+C:\Users\JakubKołakowski\source\repos\zad2\bin\Debug\net9.0-windows\zad2.runtimeconfig.json
+C:\Users\JakubKołakowski\source\repos\zad2\bin\Debug\net9.0-windows\zad2.dll
+C:\Users\JakubKołakowski\source\repos\zad2\bin\Debug\net9.0-windows\zad2.pdb
+C:\Users\JakubKołakowski\source\repos\zad2\obj\Debug\net9.0-windows\zad2.Form1.resources
+C:\Users\JakubKołakowski\source\repos\zad2\obj\Debug\net9.0-windows\zad2.csproj.GenerateResource.cache
+C:\Users\JakubKołakowski\source\repos\zad2\obj\Debug\net9.0-windows\zad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JakubKołakowski\source\repos\zad2\obj\Debug\net9.0-windows\zad2.AssemblyInfoInputs.cache
+C:\Users\JakubKołakowski\source\repos\zad2\obj\Debug\net9.0-windows\zad2.AssemblyInfo.cs
+C:\Users\JakubKołakowski\source\repos\zad2\obj\Debug\net9.0-windows\zad2.csproj.CoreCompileInputs.cache
+C:\Users\JakubKołakowski\source\repos\zad2\obj\Debug\net9.0-windows\zad2.dll
+C:\Users\JakubKołakowski\source\repos\zad2\obj\Debug\net9.0-windows\refint\zad2.dll
+C:\Users\JakubKołakowski\source\repos\zad2\obj\Debug\net9.0-windows\zad2.pdb
+C:\Users\JakubKołakowski\source\repos\zad2\obj\Debug\net9.0-windows\zad2.genruntimeconfig.cache
+C:\Users\JakubKołakowski\source\repos\zad2\obj\Debug\net9.0-windows\ref\zad2.dll
